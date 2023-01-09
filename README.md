@@ -1,9 +1,11 @@
 # PyVenture
 Welcome to PyVenture the top of the line text based adventure out there.
 
+All previous versions will be archived as seprate releases
+
 Check out the making of PyVenture on [youtube](https://www.youtube.com/playlist?list=PLTOLepNPA28R_QIM0-6diX3nxLrP7k8jc)!
 
-Development status: 1. Planning
+V1.0.0 Development status: 1. Planning
 
 # Devolopment Steps
 
