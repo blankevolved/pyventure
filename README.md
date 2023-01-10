@@ -16,3 +16,23 @@ V1.0.0 Development status: 1. Planning
 ❌ 3. Add details and interactions - functions to handle specific actions, npcs, picking up items, puzzles
 
 ❌ 4. Testing/Debugging - clean up the game
+
+# Features
+
+1. Player actions
+
+2. Enemys
+
+3. Full skill system for player
+
+4. Easy to use player UI
+
+5. Saving/Loading from json
+
+6. NPCS/events
+
+7. Quests
+
+8. Currency system
+
+9. Inventory/Item system
